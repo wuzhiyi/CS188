@@ -1,4 +1,4 @@
-# CS188 Intro to AI
+# CS188
 This is my study notes for CS188, If you have any questions, 
 you could directly post an issue or fork a repository by yourself,
 or send email to me (my email address: _zhiyifight@163.com_)
